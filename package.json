@@ -1,0 +1,12 @@
+{
+  "name": "js-udemy-course",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and final code for all sections and projects contained in the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
